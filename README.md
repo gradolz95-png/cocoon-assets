@@ -1,0 +1,2 @@
+# cocoon-assets
+cocoon-assets
