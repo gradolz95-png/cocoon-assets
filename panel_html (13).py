@@ -1191,7 +1191,7 @@ let cocoonUser = {{ name: "гость", id: null }};
 // ============ CHAT PAYWALL / TON ============
 const CHAT_PAYWALL_ENABLED = true; // сделай false, если чат должен быть бесплатным
 const CHAT_PRICE_NANOTON = "100000000"; // 0.1 TON в нанотонах
-const CHAT_RECEIVER_ADDRESS = "EQ____________________________"; // сюда подставь свой TON-адрес
+const CHAT_RECEIVER_ADDRESS = "UQBPTda3yIYxsiQkNVChAtQZ6-Z2iysJrvRGdWA1AtbTWu5-"; // сюда подставь свой TON-адрес
 
 let tonConnector = null;
 let tonWallet = null;
@@ -2144,4 +2144,5 @@ setInterval(loadHistory, 5000);
 
 </body>
 </html>
+
 """
